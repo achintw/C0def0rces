@@ -1,4 +1,4 @@
-# C0def0rces Boilerplate code
+# Boilerplate 
 
 ```
 #include <bits/stdc++.h>
